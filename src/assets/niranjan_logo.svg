@@ -1,0 +1,10 @@
+<!-- Simple Text Logo -->
+<svg width="200" height="40" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+    <!-- Code Style Text with Spacing -->
+    <text x="200" y="45"
+        font-family="Consolas, monospace"
+        font-size="42"
+        font-weight="bold"
+        fill="#FFFFFF"
+        text-anchor="middle">&lt; Q-Niranjan /&gt;</text>
+</svg>
