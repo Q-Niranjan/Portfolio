@@ -33,7 +33,7 @@ A modern, interactive portfolio website built with React, Three.js, and Framer M
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   https://github.com/Q-Niranjan/Portfolio.git
    cd portfolio
    ```
 
