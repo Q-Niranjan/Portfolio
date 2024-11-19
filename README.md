@@ -52,8 +52,6 @@ A modern, interactive portfolio website built with React, Three.js, and Framer M
    VITE_EMAILJS_PUBLIC_KEY=your_public_key
    ```
 
-   > Get your API keys by signing up at [EmailJS.com](https://www.emailjs.com/)
-
 4. **Run the development server**
 
    ```bash
@@ -105,14 +103,10 @@ The site is configured for deployment on platforms like Vercel or Netlify. The b
 }
 ```
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
 ## 🤝 Contact
 
 Niranjan Kumar
-
-- Email: nirajan882684@gmail.com
 - LinkedIn: [Niranjan Kumar](https://www.linkedin.com/in/niranjan-kumar-144243223)
 - GitHub: [Q-Niranjan](https://github.com/Q-Niranjan)
+
+***Thank you for exploring this repo! Feel free to reach out with questions or suggestions. - Happy coding!***
