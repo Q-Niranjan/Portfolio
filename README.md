@@ -1,6 +1,6 @@
-# Niranjan Kumar - Portfolio Website
+# Niranjan Kumar - Portfolio Website 
 
-A modern, interactive portfolio website built with React, Three.js, and Framer Motion, showcasing my projects and skills as a full-stack developer.
+A modern, interactive portfolio website built with React, Three.js, and Framer Motion, showcasing my projects and skills as a full-stack developer. [Visit My Portfolio](https://portfolio-murex-tau-97.vercel.app/)
 
 ## 🌟 Features
 
